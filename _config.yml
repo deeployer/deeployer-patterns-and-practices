@@ -1,3 +1,15 @@
 title: Deeployer Patterns & Practices
 description: Repository of Patterns & Practices adopted by Deeployer
 theme: jekyll-theme-cayman
+
+links:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about
+  - title: Archive
+    url: /archive
+  - title: Contact
+    url: /contact
+  - title: Categories
+    url: /categories
