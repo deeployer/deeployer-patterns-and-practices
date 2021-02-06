@@ -31,6 +31,17 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-func-<Purpose>```
 - **Exemplo de uso:** deephealth-data-func-ftpscan
 
+### Azure Storage Account
+
+- **Name convention:** ```<BusinessUnitName>-<ProductName>-<Purpose>```
+- **Exemplo de uso:** deephealth-data-ingest
+
+### Azure Storage Account - Queue
+
+- **Name convention:** ```<StorageAccountName>-<Purpose>-in```
+- **Name convention:** ```<StorageAccountName>-<Purpose>-poison```
+- **Exemplo de uso:** deephealth-data-ingest-download-in
+
 ## Azure DevOps
 
 To-do
