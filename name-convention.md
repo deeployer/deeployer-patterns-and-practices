@@ -12,7 +12,7 @@
 
 Exemplo de uso: dev.br.deephealth-data-ingest
 
-## Projetos do Visual Studio  / Code
+## Projetos do Visual Studio (Code)
 
 ### Azure Functions
 
