@@ -22,7 +22,7 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 ### Resource Group
 
 - **Name convention:** ```<Environment>-<Region>-<BusinessUnitName>-<ProductName>-<Purpose>```
-- **Exemplo de uso:** dev.br.deephealth-data-ingest
+- **Exemplo de uso:** dev-br-deephealth-data-ingest
 
 ## Projetos do Visual Studio (Code)
 
