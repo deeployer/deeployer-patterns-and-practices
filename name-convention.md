@@ -12,7 +12,10 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 
 **Regras gerais**
 
-- Utilizar sempre nomes com letras minúsculas.
+- Utilizar sempre nomes com letras minúsculas, os temos entre "<>" estão utilizando Pascal Case apenas para legibilidade;
+- Termos que não estiverem entre "<>" são fixos e obrigatórios no nome;
+- Não utilizar abreviações, que muitas vezes podem gerar confusões no entendimento;
+- Não utilizar acrônimos, a menos que sejam amplamente reconhecidos e aceitos.
 
 ## Azure
 
