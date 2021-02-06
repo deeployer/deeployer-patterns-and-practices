@@ -24,13 +24,6 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Name convention:** ```<Environment>-<Region>-<BusinessUnitName>-<ProductName>-<Purpose>```
 - **Exemplo de uso:** dev-br-deephealth-data-ingest
 
-## Projetos do Visual Studio (Code)
-
-### Azure Functions
-
-- **Name convention:** ```<BusinessUnitName>-<ProductName>-func-<Purpose>```
-- **Exemplo de uso:** deephealth-data-func-ftpscan
-
 ### Azure Storage Account
 
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-<Purpose>```
@@ -41,6 +34,14 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Name convention:** ```<StorageAccountName>-<Purpose>-in```
 - **Name convention:** ```<StorageAccountName>-<Purpose>-poison```
 - **Exemplo de uso:** deephealth-data-ingest-download-in
+
+
+## Projetos do Visual Studio (Code)
+
+### Azure Functions
+
+- **Name convention:** ```<BusinessUnitName>-<ProductName>-func-<Purpose>```
+- **Exemplo de uso:** deephealth-data-func-ftpscan
 
 ## Azure DevOps
 
