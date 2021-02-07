@@ -36,7 +36,7 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Exemplo de uso:** deephealth-data-ingest-download-in
 
 
-## Soluções e projetos desenvolvidos no Visual Studio (Code)
+## Projetos desenvolvidos no Visual Studio (Code)
 
 ### Projeto para uma Azure Functions
 
@@ -51,7 +51,7 @@ To-do
 
 ### NoSQL database name
 
-- **Name convention:** ```<BusinessUnitName>-<Product>-<Purpose>```
+- **Name convention:** ```<BusinessUnitName>-<ProductName>-<Purpose>```
 - **Exemplo de uso:** deephealth-data-ftpscan-ingest--control
 
 ### NoSQL database collection name
