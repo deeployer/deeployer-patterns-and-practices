@@ -3,10 +3,3 @@ email: contato@deeployer.com
 description: Repository of Patterns & Practices adopted by Deeployer
 theme: jekyll-theme-cayman
 twitter_username: deeployer
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
