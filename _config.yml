@@ -2,6 +2,6 @@ title: Deeployer Patterns & Practices
 email: contato@deeployer.com
 description: Repository of Patterns & Practices adopted by Deeployer
 baseurl: "/patterns-and-practices"
-url: "http://deeployer.com"
+url: "deeployer.com"
 theme: jekyll-theme-cayman
 twitter_username: deeployer
