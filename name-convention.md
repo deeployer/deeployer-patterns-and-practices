@@ -58,3 +58,7 @@ To-do
 
 - **Name convention:** ```<SourceName>-<ItemName>```
 - **Exemplo de uso:** datasus-cnes
+
+<p align="center">
+  <img width="200" height="200" src="http://deeployer.com/deeployer-patterns-and-practices/assets/images/deeployer-logo-hexagon-avatar.png">
+</p>
