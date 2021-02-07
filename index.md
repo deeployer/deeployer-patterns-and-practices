@@ -6,6 +6,6 @@
 
 Olá, este é o nosso repositório de padrões e práticas que seguimos na Deeployer. Navegue nas opções abaixo para acessar um padrão ou prática específica.
 
-- **[Glossary](http://deeployer.com/deeployer-patterns-and-practices/glossary):** glossários de termos e expressões comuns.
+- **[Glossary](http://deeployer.com/deeployer-patterns-and-practices/glossary):** glossário de termos e expressões comuns utilizadas neste repositório de padrões e práticas.
 - **[Name Convention](http://deeployer.com/deeployer-patterns-and-practices/name-convention):** padrões de nomenclatura para criação de projetos, recursos na Azure etc.
 
