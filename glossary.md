@@ -1,4 +1,4 @@
-[Home](http://deeployer.com/deeployer-patterns-and-practices/) > Glossary
+[Home](https://deeployer.com/deeployer-patterns-and-practices/) > Glossary
 
 # Termos comuns
 
@@ -9,5 +9,5 @@
 
 
 <p align="center">
-  <img width="200" height="200" src="http://deeployer.com/deeployer-patterns-and-practices/assets/images/deeployer-logo-hexagon-avatar.png">
+  <img width="200" height="200" src="https://deeployer.com/deeployer-patterns-and-practices/assets/images/deeployer-logo-hexagon-avatar.png">
 </p>
