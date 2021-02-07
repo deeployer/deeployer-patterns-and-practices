@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="http://deeployer.com/deeployer-patterns-and-practices/assets/images/deeployer-logo-hexagon-avatar.png">
+  <img width="400" src="http://deeployer.com/deeployer-patterns-and-practices/assets/images/deeployer-logo.png">
 </p>
 
 ## Repositório de Patterns & Practices da Deeployer
