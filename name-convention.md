@@ -6,9 +6,9 @@ Neste paper encontram-se as convenções de nomenclatura para criação de proje
 
 **Motivação**
 
-Seguir um conjunto consistente de convenções de nomenclatura no desenvolvimento de uma estrutura pode ser uma grande contribuição para a usabilidade da estrutura. 
+Seguir um conjunto consistente de convenções de nomenclatura no desenvolvimento pode ser uma grande contribuição para a usabilidade de uma estrutura.
 
-Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em projetos e equipes separadas. Além da consistência da forma, os nomes dos elementos  devem ser facilmente compreendidos e devem transmitir inequivocamente sua função/propósito. 
+Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em projetos e equipes separadas. Além da consistência da forma, os nomes dos elementos devem ser facilmente compreendidos e devem transmitir inequivocamente sua função/propósito. 
 
 **Regras gerais**
 
@@ -36,9 +36,9 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Exemplo de uso:** deephealth-data-ingest-download-in
 
 
-## Projetos do Visual Studio (Code)
+## Soluções e projetos desenvolvidos no Visual Studio (Code)
 
-### Azure Functions
+### Projeto para uma Azure Functions
 
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-func-<Purpose>```
 - **Exemplo de uso:** deephealth-data-func-ftpscan
