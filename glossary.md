@@ -1,11 +1,9 @@
 [Home](http://deeployer.com/deeployer-patterns-and-practices/) > Glossary
 
-# Name Convention
+# Termos comuns
 
-Neste paper encontram-se as convenções de nomenclatura para criação de projetos no Visual Studio (Code), recursos na Azure, itens no Azure DevOps etc.
+- **Business Unit:** uma Business Unity (ou Unidade de Negócio) pode ser definida como uma subdivisão da empresa por área de negócio, linha de produto, segmento de atuação de mercado, etc. Basicamente, pode ser encarada como uma "unidade de planejamento", definida em termos de necessidades e oportunidades estratégicas.
 
-- **Name convention:** ```<Environment>-<Region>-<BusinessUnitName>-<ProductName>-<Purpose>```
-- **Exemplo de uso:** dev-br-deephealth-data-ingest
 
 <p align="center">
   <img width="200" height="200" src="http://deeployer.com/deeployer-patterns-and-practices/assets/images/deeployer-logo-hexagon-avatar.png">
