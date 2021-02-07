@@ -3,7 +3,7 @@
 # Links úteis
 
 **Azure Functions HTTP trigger**
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=csharp
+- https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=csharp
 ```Remarks: artigo com informações importantes para a parte de authenticação e segurança. ```
 
 <p align="center">
