@@ -27,22 +27,27 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 ### Azure Storage Account
 
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-<Purpose>```
-- **Exemplo de uso:** deephealth-data-ingest
+- **Exemplo de uso:** deephealth-process
+- **Exemplo de uso:** deephealth-data
 
 ### Azure Storage Account - Queue
 
 - **Name convention:** ```<StorageAccountName>-<Purpose>-in```
-- **Name convention:** ```<StorageAccountName>-<Purpose>-poison```
-- **Exemplo de uso:** deephealth-data-ingest-download-in
+- **Name convention:** ```<StorageAccountName>-<Purpose>-in-poison```
+- **Exemplo de uso:** deephealth-process-download-in
+- **Exemplo de uso:** deephealth-process-download-in-poison
 
+### Azure Storage Account - Container
+
+- **Name convention:** seguir a segregação lógica necessária para representar seu propósito.
 
 ## Projetos desenvolvidos no Visual Studio (Code)
 
 ### Projeto para uma Azure Functions
 
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-func-<Purpose>```
-- **Exemplo de uso:** deephealth-data-func-ftpscan
-
+- **Exemplo de uso:** deephealth-data-func-ftp-scan
+- **Exemplo de uso:** deephealth-data-func-ftp-download
 ## Azure DevOps
 
 To-do
@@ -52,7 +57,7 @@ To-do
 ### NoSQL database name
 
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-<Purpose>```
-- **Exemplo de uso:** deephealth-data-ftpscan-ingest--control
+- **Exemplo de uso:** deephealth-data-ftp-scan-ingest--control
 
 ### NoSQL database collection name
 
