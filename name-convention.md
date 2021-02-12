@@ -48,6 +48,7 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Name convention:** ```<BusinessUnitName>-<ProductName>-func-<Purpose>```
 - **Exemplo de uso:** deephealth-data-func-ftp-scan
 - **Exemplo de uso:** deephealth-data-func-ftp-download
+
 ## Azure DevOps
 
 To-do
