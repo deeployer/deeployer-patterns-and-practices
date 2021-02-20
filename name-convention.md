@@ -41,6 +41,21 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 
 - **Name convention:** seguir a segregação lógica necessária para representar seu propósito.
 
+### Azure SQL Server - Database 
+
+- **Name convention:** ```<BusinessUnit>-target```
+- **Name convention:** ```<BusinessUnit>-stage```
+
+### Azure SQL Server - Schema
+
+- **Name convention:** ```<CollectionName>```
+- **Exemplo de uso:** cnes
+
+### Azure SQL Server - Schema
+
+- **Name convention:** ```<Schema>.<SourceTableName>```
+- **Exemplo de uso:** sia-tb-ap-aq
+
 ## Projetos desenvolvidos no Visual Studio (Code)
 
 ### Projeto para uma Azure Functions
