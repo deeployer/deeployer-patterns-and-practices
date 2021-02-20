@@ -51,7 +51,7 @@ Os padrões permitem que a estrutura seja usada por muitos desenvolvedores em pr
 - **Name convention:** ```<CollectionName>```
 - **Exemplo de uso:** cnes
 
-### Azure SQL Server - Schema
+### Azure SQL Server - Table
 
 - **Name convention:** ```<Schema>.<SourceTableName>```
 - **Exemplo de uso:** sia-tb-ap-aq
